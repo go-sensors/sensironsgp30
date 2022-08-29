@@ -12,7 +12,7 @@ Take a look at [rpi-sensor-exporter][rpi-sensor-exporter] for an example impleme
 
 The [Sensiron SGP30][sensironsgp30] gas sensors are used for detecting volatile organic compound (VOC) concentrations, per [vendor specifications][specs]. This [go-sensors] implementation makes use of the sensor's I2C-based protocol for obtaining measurements on an interval defined by the vendor.
 
-[sensironsgp30]: http://www.aosong.com/en/products-40.html
+[sensironsgp30]: https://sensirion.com/us/products/catalog/SGP30/
 [specs]: ./docs/Sensirion_Gas_Sensors_SGP30_Datasheet_EN.pdf
 [go-sensors]: https://github.com/go-sensors
 
